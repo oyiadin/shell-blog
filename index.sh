@@ -11,7 +11,7 @@ else
 fi
 
 echo ""
-echo "Welcome to Ricter's Diary Server."
+echo "Welcome to Ricter's Diary Server. [ 初❤️を忘れず ]"
 echo "Source code: https://github.com/RicterZ/shell-blog"
 echo ""
 
