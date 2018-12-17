@@ -12,6 +12,7 @@ fi
 
 echo ""
 echo "Welcome to Ricter's Diary Server."
+echo "Source code: https://github.com/RicterZ/shell-blog"
 echo ""
 
 # find me
