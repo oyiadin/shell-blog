@@ -1,6 +1,5 @@
 #!/bin/bash
-echo "Content-type: text/plain"
-echo ""
+./header.sh
 echo "root@you ~:# ssh ricterz.me"
 echo ""
 
