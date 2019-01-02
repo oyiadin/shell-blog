@@ -1,15 +1,5 @@
 #!/bin/bash
 ./header.sh
-echo "root@you ~:# ssh ricterz.me"
-echo ""
-
-if [[ $HTTP_USER_AGENT == *"curl"* ]]; then
-    screenfetch
-else
-    screenfetch -N
-fi
-
-echo ""
 echo "Welcome to Ricter's Diary Server. [ 初❤️を忘れず ]"
 echo "Source code: https://github.com/RicterZ/shell-blog"
 echo ""
@@ -31,9 +21,3 @@ echo ""
 # list posts
 echo "\$ ls -1r diaries/"
 ls -1r diaries/
-echo ""
-
-
-echo "\$ exit"
-echo "Connection to ricterz.me closed."
-echo "root@you ~:#"
