@@ -21,3 +21,5 @@ echo ""
 # list posts
 echo "\$ ls -1r diaries/"
 ls -1r diaries/
+
+./footer.sh
