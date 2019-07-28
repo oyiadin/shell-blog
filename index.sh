@@ -14,12 +14,12 @@ id
 echo ""
 
 # list posts
-echo "\$ ls -1r posts/"
+echo "\$ ls -1r <a href='/posts/'>posts/</a>"
 ls -1r posts/
 echo ""
 
 # list posts
-echo "\$ ls -1r diaries/"
+echo "\$ ls -1r <a href='/diaries'>diaries/</a>"
 ls -1r diaries/
 
 ./footer.sh
