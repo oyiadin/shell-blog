@@ -1,5 +1,6 @@
 #!/bin/bash
 ./header.sh
+
 if [[ $HTTP_USER_AGENT == *"curl"* ]]; then
     bgmi history
 else
