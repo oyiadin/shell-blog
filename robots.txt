@@ -1,3 +1,0 @@
-# Go away fuck you
-User-agent: *
-Disallow: /

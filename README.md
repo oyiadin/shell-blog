@@ -1,3 +1,0 @@
-Ricter's Blog
-========
-

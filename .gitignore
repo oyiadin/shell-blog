@@ -1,2 +1,7 @@
-posts/*.txt
-diaries/*.txt
+.DS_Store
+
+posts/[^.]*
+private/[^.]*
+
+.htpasswd
+
